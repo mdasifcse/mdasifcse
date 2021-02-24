@@ -6,8 +6,6 @@ I have maintained, developed and launched multiple Web Apps and Mobile apps Proj
 carrying the development of its front-end codebases.
 
 
-<!--
-**mdasifcse/mdasifcse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ⚡ Technologies
 
