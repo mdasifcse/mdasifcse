@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 
 
 [![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdasifcse)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdasifcse&hide=TeX&layout=compact)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=mdasifcse&color=green)
