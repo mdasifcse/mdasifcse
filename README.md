@@ -19,7 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![stack Overflow](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAngular_(web_framework)&psig=AOvVaw2WkVYSSpDEakdIgJCSHwaT&ust=1614280085131000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOj8-Yqcg-8CFQAAAAAdAAAAABAD)
-
 
 
