@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-⚡ Technologies
 
-Web Technologies 
 
-Angular 2-8 ,Css/Scss, 
+
 
