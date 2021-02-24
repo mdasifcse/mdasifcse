@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 
+
+<img align="left" src="https://simpleicons.org/icons/angular.svg" alt="Flutter" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
