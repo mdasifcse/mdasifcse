@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 [![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdasifcse)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdasifcse&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdasifcse)](https://github.com/mdasifcse/github-readme-stats)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=mdasifcse&color=green)
 
